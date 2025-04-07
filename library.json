@@ -1,0 +1,163 @@
+[
+    {
+      "title": "python crash course",
+      "author": "Eric Matthes",
+      "publication_year": "2019",
+      "genre":"Programming",
+      "read_status": false,
+      "added_data": "2025-03-11  11:08:10"
+    },
+      {
+      "title": "Automate the boring stuff with python",
+      "author": "Fiza Sagar",
+      "publication_year": "2011",
+      "genre":"Programming",
+      "read_status": true,
+      "added_data": "2025-03-11  11:12:10"
+    },
+    {
+      "title": "Fluent Python",
+      "author": "Ramalho",
+      "publication_year": "2022",
+      "genre":"Programming",
+      "read_status": false,
+      "added_data": "2025-03-11  11:55:10"
+    },
+    {
+      "title": "Effective Python",
+      "author": "Brett Slatkin",
+      "publication_year": "2020",
+      "genre":"Programming",
+      "read_status": true,
+      "added_data": "2025-03-11  11:59:10"
+    },
+    {
+      "title": "Python Tricks",
+      "author": "Dan Bader",
+      "publication_year": "2017",
+      "genre":"Programming",
+      "read_status": false,
+      "added_data": "2025-03-11  12:00:10"
+    },
+    {
+      "title": "Head First Python",
+      "author": "Paul Barry",
+      "publication_year": "2016",
+      "genre":"Programming",
+      "read_status": true,
+      "added_data": "2025-03-11  12:02:10"
+    },
+    {
+      "title": "Learning Python, 5th Edition",
+      "author": "Mark Lutz",
+      "publication_year": "2013",
+      "genre":"Programming",
+      "read_status": false,
+      "added_data": "2025-03-11  12:04:10"
+    },
+    {
+      "title": "Python for Data Analysis",
+      "author": "Wes McKinney",
+      "publication_year": "2018",
+      "genre":"Programming",
+      "read_status": true,
+      "added_data": "2025-03-11  12:05:10"
+    },
+    {
+      "title": "Python Data Science Handbook",
+      "author": "Jake VanderPlas",
+      "publication_year": "2016",
+      "genre":"Programming",
+      "read_status": false,
+      "added_data": "2025-03-11  12:06:10"
+    },
+    {
+      "title": "Python Machine Learning",
+      "author": "Sebastian Raschka",
+      "publication_year": "2019",
+      "genre":"Programming",
+      "read_status": true,
+      "added_data": "2025-03-11  12:07:10"
+    },
+    {
+      "title": "Deep Learning with Python",
+      "author": "Francois Chollet",
+      "publication_year": "2017",
+      "genre":"Programming",
+      "read_status": false,
+      "added_data": "2025-03-11  12:08:10"
+    },
+    {
+      "title": "Python for Everybody",
+      "author": "Charles Severance",
+      "publication_year": "2016",
+      "genre":"Programming",
+      "read_status": true,
+      "added_data": "2025-03-11  12:09:10"
+    },
+    {
+      "title": "Python Crash Course",
+      "author": "Eric Matthes",
+      "publication_year": "2019",
+      "genre":"Programming",
+      "read_status": false,
+      "added_data": "2025-03-11  12:10:10"
+    },
+    {
+      "title": "Python Cookbook, 3rd Edition",
+      "author": "David Beazley",
+      "publication_year": "2013",
+      "genre":"Programming",
+      "read_status": true,
+      "added_data": "2025-03-11  12:11:10"
+    },
+    {
+      "title": "Python in a Nutshell",
+      "author": "Alex Martelli",
+      "publication_year": "2018",
+      "genre":"Programming",
+      "read_status": false,
+      "added_data": "2025-03-11  12:12:10"
+    },
+    {
+      "title": "Learning Python the Hard Way",
+      "author": "Zed Shaw",
+      "publication_year": "2013",
+      "genre":"Programming",
+      "read_status": true,
+      "added_data": "2025-03-11  12:13:10"
+    },
+    {
+      "title": "Python for Data Analysis, 2nd Edition",
+      "author": "Wes McKinney",
+      "publication_year": "2020",
+      "genre":"Programming",
+      "read_status": false,
+      "added_data": "2025-03-11  12:14:10"
+    },
+    
+   {
+      "title": "Python Cookbook",
+      "author": "David Beazley",
+      "publication_year": "2013",
+      "genre":"Programming",
+      "read_status": false,
+      "added_data": "2025-03-11  12:05:10"
+    },
+    {
+      "title": "Learning Python",
+      "author": "Mark Lutz",
+      "publication_year": "2013",
+      "genre":"Programming",
+      "read_status": true,
+      "added_data": "2025-03-11  12:10:10"
+    },
+    {
+      "title": "Python Crash Course, 2nd Edition",
+      "author": "Eric Matthes",
+      "publication_year": "2019",
+      "genre":"Programming",
+      "read_status": false,
+      "added_data": "2025-03-11  12:15:10"
+    }
+]
